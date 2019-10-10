@@ -1,3 +1,8 @@
+# Live demo here
+
+[https://calc-simple-service-demo.herokuapp.com](https://calc-simple-service-demo.herokuapp.com/calc/add/2/2)
+ 
+# Heroku 
 Deploy using Heroku Git
 Use git in the command line or a GUI tool to deploy this app.
 Install the Heroku CLI
